@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+}
+h1 {
+    color: red;
+}
+
+h2 {
+    color: brown;
+}
+
+#timer {
+    color: green;
+}
