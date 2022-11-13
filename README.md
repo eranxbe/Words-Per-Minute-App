@@ -1,4 +1,4 @@
-# Simple Words Per Minute App
+# Words Per Minute App
 
 This is a simple demo project that I wanted to create from scratch for a while, so here it is!
 Written in HTML, CSS and Javascript, hosted locally.
